@@ -1,1 +1,1 @@
-# diceGame
+#omarbro.diceGame
